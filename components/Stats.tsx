@@ -96,7 +96,7 @@ export default function Stats() {
               Project Completion Trends
             </h3>
             <div className="h-80">
-              <ResponsiveContainer width>
+              <ResponsiveContainer width="100%" height="100%">
                 <LineChart data={projectData}>
                   <XAxis 
                     dataKey="quarter" 

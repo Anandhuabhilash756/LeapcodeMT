@@ -14,8 +14,6 @@
     "react-dom": "^18",
     "framer-motion": "^10.16.16",
     "swiper": "^11.0.5",
-    "swiper/react": "^11.0.5",
-    "swiper/modules": "^11.0.5",
     "react-hook-form": "^7.48.2",
     "react-icons": "^4.12.0",
     "recharts": "^2.8.0",
